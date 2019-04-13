@@ -1,4 +1,4 @@
-## Welcome to Renee's personal blog hhhhhhhhhhh
+## Welcome to Renee's personal blog
 
 You can use the [editor on GitHub](https://github.com/ReneeTsai/Self-introduction/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
